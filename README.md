@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi! I'm Maria | Full Stack Developer</h1>
 
-<h1  style="text-align: justify; margin: 4px; font-size: 17px;" >If you can imaging it, you can create it</p1>
+<h3 align="center" style="text-align: justify; margin: 4px; font-size: 17px;" >I believe that if you can imaging something, it can also be created</h3>
 <br>
 
 <!--- snake -->
@@ -24,7 +24,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
+    <summary><h3 style="display: inline-block">Technologies That I Know</h3></summary>
   </ul>
 </div>
 <!--tech stack icons-->
