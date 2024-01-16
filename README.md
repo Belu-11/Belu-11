@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi! I'm Maria | Full Stack Developer</h1>
 
-<h3 align="center" style="text-align: justify; margin: 4px; font-size: 17px;" >I believe that if you can imaging something, it can also be created</h3>
+<h3 align="center" style="text-align: justify; margin: 4px; font-size: 17px;" >I believe that if you can imaging something, it can also be created!</h3>
 <br>
 
 <!--- snake -->
