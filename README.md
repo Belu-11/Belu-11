@@ -1,6 +1,6 @@
 
 
-<h1 align="center">⋆｡ﾟ🪐｡⋆｡ ﾟ☾ ﾟ｡⋆ Hi! I'm Maria&nbsp;|&nbsp;Full Stack Developer ⋆｡ﾟ🪐｡⋆｡ ﾟ☾ ﾟ｡⋆</h1>
+<h1 align="center">⋆｡ﾟ🪐｡⋆｡ ﾟ☾ ﾟ Hi! I'm Maria&nbsp;|&nbsp;Full Stack Developer ⋆｡ﾟ🪐｡⋆｡ ﾟ☾ ﾟ</h1>
 
 <div align="center">
   <p align="center" style="text-align: justify; margin: 4px; font-size: 17px" >If you can imagine something, you can also create it!</p>
