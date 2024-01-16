@@ -1,6 +1,9 @@
 
 
-<h1 align="center">👋 Hi! I'm Maria</h1>
+<h1 align="center">👋 Hi! I'm Maria | Full Stack Developer</h1>
+
+<h1  style="text-align: justify; margin: 4px; font-size: 17px;" >If you can imaging it, you can create it</p1>
+<br>
 
 <!--- snake -->
 <div align="center">
