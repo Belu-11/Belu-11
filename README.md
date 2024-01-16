@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hi! I'm Maria | Full Stack Developer</h1>
+<h1 align="center">🌌 Hi! I'm Maria | Full Stack Developer</h1>
 
 <div align="center">
   <p align="center" style="text-align: justify; margin: 4px; font-size: 17px" >If you can imagine something, you can also create it!</p>
