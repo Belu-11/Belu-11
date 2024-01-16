@@ -1,4 +1,4 @@
-### Hi there 👋
+###👋 Hi! I'm Maria
 
 <!--- snake -->
 <div align="center">
@@ -25,6 +25,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,cs,react,redux,threejs,nodejs,tailwind,django,linux,bootstrap,grafana,figma,gitlab,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,cs,react,redux,threejs,nodejs,tailwind,django,linux,bootstrap,grafana,figma&perline=14" />
   </a>
 </p>
