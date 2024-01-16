@@ -6,7 +6,7 @@
   <p align="center" style="text-align: justify; margin: 4px; font-size: 17px" >If you can imagine something, you can also create it!</p>
 <!--   <img style="height: 250px" src="https://img.freepik.com/free-vector/cute-astronaut-playing-basketball-moon-cartoon-vector-icon-illustration-science-technology-isolated_138676-4549.jpg?w=740&t=st=1705443104~exp=1705443704~hmac=addf9fe5c8b08eca76c1af931a0a2c2f30554d9f42e6389e27b9a34c6dba8aab"> -->
 <!--   <img style="height: 250px" src="https://img.freepik.com/free-vector/cute-astronaut-with-cat-floating-space-cartoon-vector-icon-illustration-science-animal-isolated_138676-6916.jpg?w=740&t=st=1705444280~exp=1705444880~hmac=cbc40b8c68ec16bf870972c8a5a7dfd3ea676908bf00efd1a872d7210c405752"> -->
-  <img style="height: 250px" src="https://img.freepik.com/free-vector/cute-astronaut-floating-with-planet-balloon-space-cartoon-vector-icon-illustration-technology-science-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3850.jpg?t=st=1705444280~exp=1705444880~hmac=147b09d1c612ab8b7ae893d8f852657543bebe6347603007225118bf7b10791a">
+  <img style="height: 250px; width: 250px; border-radius: 50%; object-fit: cover;" src="https://img.freepik.com/free-vector/cute-astronaut-floating-with-planet-balloon-space-cartoon-vector-icon-illustration-technology-science-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3850.jpg?t=st=1705444280~exp=1705444880~hmac=147b09d1c612ab8b7ae893d8f852657543bebe6347603007225118bf7b10791a">
 </div>
 <br>
 
