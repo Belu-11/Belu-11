@@ -4,7 +4,7 @@
 
 <h3 align="center" style="text-align: justify; margin: 4px; font-size: 17px;" >I believe that if you can imagine something, you can also create it! After all, going to the moon was once imagined too.</h3>
 <div align="center">
-  <img style="height: 100px; width: 100px" src="https://img.freepik.com/free-vector/cute-astronaut-playing-basketball-moon-cartoon-vector-icon-illustration-science-technology-isolated_138676-4549.jpg?w=740&t=st=1705443104~exp=1705443704~hmac=addf9fe5c8b08eca76c1af931a0a2c2f30554d9f42e6389e27b9a34c6dba8aab">
+  <img style="height: 150px" src="https://img.freepik.com/free-vector/cute-astronaut-playing-basketball-moon-cartoon-vector-icon-illustration-science-technology-isolated_138676-4549.jpg?w=740&t=st=1705443104~exp=1705443704~hmac=addf9fe5c8b08eca76c1af931a0a2c2f30554d9f42e6389e27b9a34c6dba8aab">
 </div>
 <br>
 
