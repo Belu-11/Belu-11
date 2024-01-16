@@ -1,4 +1,6 @@
-###👋 Hi! I'm Maria
+
+
+<h1 align="center">👋 Hi! I'm Maria</h1>
 
 <!--- snake -->
 <div align="center">
